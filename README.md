@@ -2,7 +2,7 @@
 
 Full Stack Engineer Junior & Marketing Assistant
 
-[![Linkedin Badge](https://img.shields.io/badge/-felipebarcelospro-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cindybarcelospro/)](https://www.linkedin.com/in/cindybarcelospro/) 
+[![Linkedin Badge](https://img.shields.io/badge/-cindybarcelospro-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cindybarcelospro/)](https://www.linkedin.com/in/cindybarcelospro/) 
 [![Gmail Badge](https://img.shields.io/badge/-cindy.r.barcelos@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cindy.r.barcelos@gmail.com)](mailto:cindy.r.barcelos@gmail.com)
 
 Enthusiast of the best web and mobile development technologies.
